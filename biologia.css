@@ -6,11 +6,11 @@
 
 :root {
     --preto: #000000;
-    --marinho: #493D9E;
+    --marinho: #af349f37;
     --amarelo-claro: #FFF2AF;
     --roxo-claro: #B2A5FF;
-    --verde: #99BC85;
-    --azul-claro: #E4EFE7;
+    --verde: #47bcc7;
+    --azul-claro: #8bcdce;
     --branco: #FFFFFF;
     --marron-claro: #FAF1E6;
 }
@@ -96,7 +96,7 @@ header {
 .lista-horizontal {
     list-style: none;
     display: flex;
-    font-size: 2rem;
+    font-size: 3rem;
     gap: 17rem;
 }
 
